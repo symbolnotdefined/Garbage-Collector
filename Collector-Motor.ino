@@ -1,3 +1,4 @@
+// Arduino code for Collector motor that collects Trash.
 char data = 0;                //Variable for storing received data
 void setup() 
 {
